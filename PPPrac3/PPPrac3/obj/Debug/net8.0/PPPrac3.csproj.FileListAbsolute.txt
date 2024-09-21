@@ -1,0 +1,14 @@
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\bin\Debug\net8.0\PPPrac3.exe
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\bin\Debug\net8.0\PPPrac3.deps.json
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\bin\Debug\net8.0\PPPrac3.runtimeconfig.json
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\bin\Debug\net8.0\PPPrac3.dll
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\bin\Debug\net8.0\PPPrac3.pdb
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\obj\Debug\net8.0\PPPrac3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\obj\Debug\net8.0\PPPrac3.AssemblyInfoInputs.cache
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\obj\Debug\net8.0\PPPrac3.AssemblyInfo.cs
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\obj\Debug\net8.0\PPPrac3.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\obj\Debug\net8.0\PPPrac3.dll
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\obj\Debug\net8.0\refint\PPPrac3.dll
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\obj\Debug\net8.0\PPPrac3.pdb
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\obj\Debug\net8.0\PPPrac3.genruntimeconfig.cache
+C:\Users\marlo\source\repos\PPPrac3\PPPrac3\obj\Debug\net8.0\ref\PPPrac3.dll
